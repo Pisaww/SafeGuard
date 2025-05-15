@@ -87,7 +87,7 @@ export default {
     },
     "chat":{
         //chat command prefix
-        "prefix": "!",
+        "prefix": "?",
         "spammer":{
             //maximum amount characters the message can have before it's considered spam
             "maxMessageCharLimit": 512,
